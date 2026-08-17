@@ -12,16 +12,11 @@
 
 ---
 
-### Tools
+### Tools & Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,postman,docker" />
 </p>
-
----
-
-### Technology Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,nextjs,ts,tailwind,js,python,mongodb,go" />
 </p>
@@ -33,8 +28,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=EhsanIC&hide_border=false&background=1A1B27&border=30363D&ring=A855F7&fire=A855F7&currStreakNum=22D3EE&sideNums=A855F7&currStreakLabel=22D3EE&sideLabels=C4B5FD&dates=8B949E" height="165" />
 </p>
-
----
 
 ```
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
