@@ -1,11 +1,18 @@
 <h1 align="center">👋 | HELLO WORLD</h1>
-<h3 align="center">Software Engineer | Cyberecurity Enthusiast</h3>
+<h3 align="center">Software Engineer | Cybersecurity Enthusiast</h3>
 
-<p align="center"> Full-stack developer who likes contributing to open-source projects and picking up new tools along the way. I care about clean architecture, secure APIs, and writing code that's actually maintainable. <br> Oh, and I use Arch btw 🐧 </p> 
+<p align="center">
+  Full-stack developer who likes contributing to open-source projects and picking up new tools along the way.
+  I care about clean architecture, secure APIs, and writing code that's actually maintainable.
+  <br>
+  Oh, and I use Arch btw 🐧
+</p>
+
+<p align="center"><i>Based in Milky Way galaxy, Solar System, 3rd rock from the sun, Earth</i></p>
 
 ---
 
-### 🛠️ Tools
+### Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,postman,docker" />
@@ -13,7 +20,7 @@
 
 ---
 
-### 💻 Technology Stack
+### Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,nextjs,ts,tailwind,js,docker,git" />
@@ -21,15 +28,13 @@
 
 ---
 
-### 📊 Stats
+### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EhsanIC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://streak-stats.demolab.com/?user=EhsanIC&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
-
 
 ```
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
