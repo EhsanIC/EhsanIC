@@ -31,7 +31,6 @@
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EhsanIC&show_icons=true&hide_border=false&count_private=true&bg_color=1A1B27&border_color=30363D&title_color=A855F7&icon_color=A855F7&text_color=C4B5FD" height="165" />
   <img src="https://streak-stats.demolab.com/?user=EhsanIC&hide_border=false&background=1A1B27&border=30363D&ring=A855F7&fire=A855F7&currStreakNum=22D3EE&sideNums=A855F7&currStreakLabel=22D3EE&sideLabels=C4B5FD&dates=8B949E" height="165" />
 </p>
 
