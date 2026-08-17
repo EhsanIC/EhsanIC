@@ -1,13 +1,7 @@
-<h1 align="center">Hi, I'm Erfan Hosseinzadeh 👋</h1>
-<h3 align="center">Software Engineer | Laravel & React Enthusiast</h3>
+<h1 align="center">👋 | HELLO WORLD</h1>
+<h3 align="center">Software Engineer | Cyberecurity Enthusiast</h3>
 
-<p align="center">
-  Fresh full-stack developer eager to gain hands-on experience, mainly focused on
-  <b>Laravel</b> and <b>React</b> projects. I care about clean architecture, secure APIs,
-  and writing code that's actually maintainable.
-</p>
-
-<p align="center"><i>Based in Mashhad, Iran 🇮🇷 — open to junior full-stack roles and freelance projects.</i></p>
+<p align="center"> Full-stack developer who likes contributing to open-source projects and picking up new tools along the way. I care about clean architecture, secure APIs, and writing code that's actually maintainable. <br> Oh, and I use Arch btw 🐧 </p> 
 
 ---
 
@@ -36,12 +30,6 @@
 
 ---
 
-### 📫 Let's connect
-
-<p align="center">
-  <a href="mailto:erfan.h.010011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/Ehsan0IC"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
 
 ```
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
