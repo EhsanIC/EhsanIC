@@ -59,6 +59,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ehsanIC&theme=github_dark" height="200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ehsanIC&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehsanIC&theme=github_dark" height="200" />
 </p>
 
 <!-- Profile Details + Stats + Most Commit Language -->
@@ -66,17 +67,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ehsanIC&theme=github_dark" width="100%" />
 </p>
 
+<!-- Stats card (same service) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehsanIC&theme=github_dark" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ehsanIC&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehsanIC&theme=github_dark" width="100%" />
+</p>
+
+<!-- Classic github-readme-stats (no graph) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ehsanIC&show_icons=true&theme=github_dark&bg_color=1A1B27&title_color=A855F7&text_color=C4B5FD&icon_color=22D3EE&border_color=30363D" width="100%" />
 </p>
 
 
-<!-- Extra contribution graphs -->
-<p align="center">
-  <img src="https://github.pumbas.net/api/contributions/ehsanIC?colour=A855F7&bgColour=1A1B27&dotColour=22D3EE&days=30" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=ehsanIC&theme=purple&size=medium" width="100%" />
-</p>
