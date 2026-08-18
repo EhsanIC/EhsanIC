@@ -2,7 +2,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 </p>
 
-<h1 align="center">👋 | HELLO WORLD</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+%7C+HELLO+WORLD" />
+</p>
+<hr>
+
 <h3 align="center">Software Engineer | Cybersecurity Enthusiast</h3>
 <p align="center">
   Full-stack developer who likes contributing to open-source projects and picking up new tools along the way.
@@ -55,4 +59,5 @@
 <p align="center">
   <img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=ehsanIC&theme=purple&size=medium" width="100%" hight="400" />
 </p>
+
 </details>
