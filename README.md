@@ -21,7 +21,7 @@
 ### Tools & Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,postman,docker,arch,vim,linux" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,laravel,php,nextjs,react,ts,js,tailwind,mysql,mongodb" />
@@ -36,20 +36,21 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ehsanIC/github-stats/blob/generated/overview.svg#gh-dark-mode-only" width="49%" />
-  <img src="https://github.com/ehsanIC/github-stats/blob/generated/languages.svg#gh-dark-mode-only" width="49%" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehsanIC&theme=github_dark&bg_color=1A1B27&title_color=A855F7&text_color=C4B5FD&border_color=30363D&icon_color=22D3EE&chart_color=A855F7" height="200" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ehsanIC&theme=github_dark&bg_color=1A1B27&title_color=A855F7&text_color=C4B5FD&border_color=30363D&icon_color=22D3EE&chart_color=A855F7" height="200" width="33%" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ehsanIC&theme=github_dark&bg_color=1A1B27&title_color=A855F7&text_color=C4B5FD&border_color=30363D&icon_color=22D3EE&chart_color=A855F7" height="200" width="33%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EhsanIC&theme=github_dark" height="200" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EhsanIC&theme=github_dark" height="200"  width="33%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehsanIC&theme=github_dark" height="200"width="33%" />
-</p>
+<!-- <p align="center">
+  <img src="https://github.com/ehsanIC/github-stats/blob/generated/overview.svg#gh-dark-mode-only" width="49%" />
+  <img src="https://github.com/ehsanIC/github-stats/blob/generated/languages.svg#gh-dark-mode-only" width="49%" />
+</p> -->
 
 <!-- ==================== ehsanIC Profile Cards ==================== -->
 
 
-
+<details>
+  <summary>More stats</summary>
 <!-- Contribution Graph variants -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehsanIC&bg_color=1A1B27&color=8B949E&title_color=A855F7&line=A855F7&point=22D3EE&area=true&area_color=A855F7&border_color=30363D&custom_title=Ehsan's%20Contribution%20Graph" width="100%" />
@@ -57,6 +58,15 @@
 
 
 <p align="center">
-  <img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=ehsanIC&theme=purple&size=medium" width="100%" />
+  <img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=ehsanIC&theme=purple&size=medium" width="100%" hight="400" />
 </p>
 
+</details>
+
+
+
+https://camo.githubusercontent.com/f4e8e48bef3db957c2006f3102ae376fa7012de3d07b3a3d7e6587485e416663/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234
+
+https://camo.githubusercontent.com/6f4727de67a5be53e7ca690d6e59d715ba8db012e8a03f0487ae385df25f2663/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313632313032343339342f33393039322f6361742d726f6c6c2e6769663f31363231303234333934
+
+https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png
