@@ -43,6 +43,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EhsanIC&theme=github_dark" height="200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EhsanIC&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehsanIC&theme=github_dark" height="200" />
 </p>
 
 <!-- ==================== ehsanIC Profile Cards ==================== -->
@@ -55,22 +56,7 @@
 </p>
 
 
-
-<!-- Streak Stats (your exact style) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ehsanIC&hide_border=false&background=1A1B27&border=30363D&ring=A855F7&fire=A855F7&currStreakNum=22D3EE&sideNums=A855F7&currStreakLabel=22D3EE&sideLabels=C4B5FD&dates=8B949E" height="200" />
+  <img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=ehsanIC&theme=purple&size=medium" width="100%" />
 </p>
 
-<!-- Productive Time + Repos per Language -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ehsanIC&theme=github_dark" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ehsanIC&theme=github_dark" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehsanIC&theme=github_dark" height="200" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github.com/ehsanIC/github-stats/blob/generated/overview.svg#gh-dark-mode-only" width="49%" />
-  <img src="https://github.com/ehsanIC/github-stats/blob/generated/languages.svg#gh-dark-mode-only" width="49%" />
-</p>
