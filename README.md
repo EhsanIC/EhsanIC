@@ -62,19 +62,23 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehsanIC&theme=github_dark" height="200" />
 </p>
 
-<!-- Profile Details + Stats + Most Commit Language -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ehsanIC&theme=github_dark" width="100%" />
-</p>
-
-<!-- Stats card (same service) -->
+<!-- Stats card (recommended) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehsanIC&theme=github_dark" width="100%" />
 </p>
 
-<!-- Classic github-readme-stats (no graph) -->
+<!-- Classic github-readme-stats (clean, no graph) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ehsanIC&show_icons=true&theme=github_dark&bg_color=1A1B27&title_color=A855F7&text_color=C4B5FD&icon_color=22D3EE&border_color=30363D" width="100%" />
 </p>
 
+<!-- Stats card without the GitHub logo -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehsanIC&theme=github_dark&hide_logo=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EhsanIC/github-stats/generated/overview.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/EhsanIC/github-stats/generated/languages.svg" width="49%" />
+</p>
 
