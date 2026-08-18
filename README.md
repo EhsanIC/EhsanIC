@@ -38,7 +38,7 @@
 <p align="center">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehsanIC&theme=github_dark&bg_color=1A1B27&title_color=A855F7&text_color=C4B5FD&border_color=30363D&icon_color=22D3EE&chart_color=A855F7" height="200" width="33%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ehsanIC&theme=github_dark&bg_color=1A1B27&title_color=A855F7&text_color=C4B5FD&border_color=30363D&icon_color=22D3EE&chart_color=A855F7" height="200" width="33%" />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ehsanIC&theme=github_dark&bg_color=1A1B27&title_color=A855F7&text_color=C4B5FD&border_color=30363D&icon_color=22D3EE&chart_color=A855F7" height="200" width="33%" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ehsanIC&theme=github_dark&bg_color=1A1B27&title_color=A855F7&text_color=C4B5FD&border_color=30363D&icon_color=22D3EE&chart_color=22D3EE" height="200" width="33%" />
 </p>
 
 <!-- <p align="center">
