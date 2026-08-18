@@ -48,11 +48,11 @@
   <summary>More stats</summary>
 
 <!-- Contribution Graph variants -->
+<br>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehsanIC&bg_color=1A1B27&color=8B949E&title_color=A855F7&line=A855F7&point=22D3EE&area=true&area_color=A855F7&border_color=30363D&custom_title=Ehsan's%20Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehsanIC&bg_color=1A1B27&color=8B949E&title_color=A855F7&line=A855F7&point=22D3EE&area=true&area_color=A855F7&border_color=30363D&custom_title=Ehsan's%20Contribution%20Graph" width="100%" style="margin-top: 20px;" />
 </p>
 <p align="center">
   <img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=ehsanIC&theme=purple&size=medium" width="100%" hight="400" />
 </p>
-
 </details>
