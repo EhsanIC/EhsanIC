@@ -36,6 +36,11 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/ehsanIC/github-stats/blob/generated/overview.svg#gh-dark-mode-only" width="49%" />
+  <img src="https://github.com/ehsanIC/github-stats/blob/generated/languages.svg#gh-dark-mode-only" width="49%" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EhsanIC&theme=github_dark" height="200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EhsanIC&theme=github_dark" height="200" />
 </p>
@@ -50,6 +55,7 @@
 </p>
 
 
+
 <!-- Streak Stats (your exact style) -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ehsanIC&hide_border=false&background=1A1B27&border=30363D&ring=A855F7&fire=A855F7&currStreakNum=22D3EE&sideNums=A855F7&currStreakLabel=22D3EE&sideLabels=C4B5FD&dates=8B949E" height="200" />
@@ -62,23 +68,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehsanIC&theme=github_dark" height="200" />
 </p>
 
-<!-- Stats card (recommended) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehsanIC&theme=github_dark" width="100%" />
-</p>
 
-<!-- Classic github-readme-stats (clean, no graph) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehsanIC&show_icons=true&theme=github_dark&bg_color=1A1B27&title_color=A855F7&text_color=C4B5FD&icon_color=22D3EE&border_color=30363D" width="100%" />
-</p>
-
-<!-- Stats card without the GitHub logo -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehsanIC&theme=github_dark&hide_logo=true" width="100%" />
-</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EhsanIC/github-stats/generated/overview.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/EhsanIC/github-stats/generated/languages.svg" width="49%" />
+  <img src="https://github.com/ehsanIC/github-stats/blob/generated/overview.svg#gh-dark-mode-only" width="49%" />
+  <img src="https://github.com/ehsanIC/github-stats/blob/generated/languages.svg#gh-dark-mode-only" width="49%" />
 </p>
-
