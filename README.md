@@ -39,3 +39,44 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EhsanIC&theme=github_dark" height="200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EhsanIC&theme=github_dark" height="200" />
 </p>
+
+<!-- ==================== ehsanIC Profile Cards ==================== -->
+
+
+
+<!-- Contribution Graph variants -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehsanIC&bg_color=1A1B27&color=8B949E&title_color=A855F7&line=A855F7&point=22D3EE&area=true&area_color=A855F7&border_color=30363D&custom_title=Ehsan's%20Contribution%20Graph" width="100%" />
+</p>
+
+
+<!-- Streak Stats (your exact style) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ehsanIC&hide_border=false&background=1A1B27&border=30363D&ring=A855F7&fire=A855F7&currStreakNum=22D3EE&sideNums=A855F7&currStreakLabel=22D3EE&sideLabels=C4B5FD&dates=8B949E" height="200" />
+</p>
+
+<!-- Productive Time + Repos per Language -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ehsanIC&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ehsanIC&theme=github_dark" height="200" />
+</p>
+
+<!-- Profile Details + Stats + Most Commit Language -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ehsanIC&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehsanIC&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ehsanIC&theme=github_dark" height="200" />
+</p>
+
+
+<!-- Extra contribution graphs -->
+<p align="center">
+  <img src="https://github.pumbas.net/api/contributions/ehsanIC?colour=A855F7&bgColour=1A1B27&dotColour=22D3EE&days=30" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=ehsanIC&theme=purple&size=medium" width="100%" />
+</p>
