@@ -17,7 +17,7 @@
 <p align="center"><i>Based in Milky Way galaxy, Solar System, 3rd rock from the sun, Earth</i></p>
 <p align="center">
   <a href="mailto:erfan.h.010011@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://web.telegram.org/@Ehsan0IC"><img src="https://img.shields.io/badge/Telegram-22D3EE?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/Ehsan0IC"><img src="https://img.shields.io/badge/Telegram-22D3EE?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://protfooli.com"><img src="https://img.shields.io/badge/Portfolio-C4B5FD?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 <hr>
